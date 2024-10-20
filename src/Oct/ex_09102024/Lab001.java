@@ -16,5 +16,4 @@ public class Lab001 {
         System.out.println("Age"+" \t"+"FirstName"+" \t"+"LastName"+" \t"+"Occupation");
         System.out.println(Age+"   \t"+FirstName+"   \t\t"+ LastName+" \t\t"+Occupation);
     }
-
 }
